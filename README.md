@@ -53,6 +53,6 @@ I'm Pablo, a student at [42 Málaga](https://www.42malaga.com/).
 
 <div align="center">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pablooglezu&hide=java,html,css&layout=compact&theme=tokyonight&hide_title=false)](https://github.com/anuraghazra/github-readme-stats)[![pablooglez's GitHub stats](https://github-readme-stats.vercel.app/api?username=pablooglez&theme=tokyonight&show_icons=true&hide_rank=true&hide=issues&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pablooglez)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
