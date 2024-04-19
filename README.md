@@ -43,6 +43,7 @@ I'm Pablo, a student at [42 Málaga](https://www.42malaga.com/).
 <a href="">![42 Badge](https://github.com/mcombeau/mcombeau/blob/main/42_badges/common_coren.png)</a>
 -->
 </div>
+
 ---
 
 ### GitHub Stats
