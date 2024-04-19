@@ -14,7 +14,7 @@ I'm Pablo, a student at [42 Málaga](https://www.42malaga.com/).
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cs,cpp,java,css,html,js,git,github,vscode,bash,linux,ai,ps&perline=12" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,css,html,js,git,github,vscode,bash,linux,ai,ps&perline=12" />
   </a>
 </p>
 <br>
