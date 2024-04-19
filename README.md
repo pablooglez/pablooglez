@@ -9,6 +9,20 @@ I'm Pablo, a student at [42 Málaga](https://www.42malaga.com/).
 <br>
 <h2>Sobre mi 😃</h2>
 
+<p align="left">
+🎓 INGENIERO EN INFORMÁTICA
+
+🎥 PEQUEÑO CREADOR DE CONTENIDO que transmite sus conocimientos 📚 a través de las redes en base a mucho estudio 😵 y experiencia
+
+💻 unos cuántos años de experiencia en el proceso de desarrollo de software (solo voy a decir más de 15 para no deschavar mi edad 🙈)
+
+📝 roles en el ámbito: desarrollador... líder... arquitecto... cofundador... emprendedor... programador freelance... y en un futuro quién sabe ☺️
+
+📫 Contacto: **unsimpledev@gmail.com**
+<!--Intro end-->
+  </p>
+<br>
+
 <!--
 <div align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
@@ -53,6 +67,9 @@ I'm Pablo, a student at [42 Málaga](https://www.42malaga.com/).
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pablooglez&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage_icons=true&theme=holi)
 
 </div>
+
+
+
 
 <!--Intro start-->
 
