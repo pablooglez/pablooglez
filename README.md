@@ -33,7 +33,7 @@ I'm Pablo, a student at [42 Málaga](https://www.42malaga.com/).
 
 ---
 
-### GitHub Stats
+### GitHub Stats :octocat:
 
 <div align="center">
 
