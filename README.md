@@ -53,17 +53,6 @@ I'm Pablo, a student at [42 Málaga](https://www.42malaga.com/).
 
 </div>
 
-<h2 >Tecnologías conocidas👨🏻‍💻</h2>
-<!--tech stack icons-->
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cs,cpp,java,css,html,js,git,github,vscode,bash,linux,ai,ps&perline=12" />
-  </a>
-</p>
-<br>
-<!-------------------------->
-<div id="proyectos">
-
 <h2>GitHub :octocat:</h2>
 <!--- stats & Trophy (start) -->
 <p align="center">
