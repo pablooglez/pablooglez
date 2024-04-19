@@ -29,19 +29,6 @@ I'm Pablo, a student at [42 Málaga](https://www.42malaga.com/).
 <a href="https://github.com/mcombeau/ft_printf">![42 Badge](https://github.com/mcombeau/mcombeau/blob/main/42_badges/ft_printfe.png)</a>
 <a href="https://github.com/mcombeau/push_swap">![42 Badge](https://github.com/mcombeau/mcombeau/blob/main/42_badges/push_swape.png)</a>
 
-
-<!-- 
-<a href="">![42 Badge](https://github.com/mcombeau/mcombeau/blob/main/42_badges/so_longn.png)</a>
-<a href="">![42 Badge](https://github.com/mcombeau/mcombeau/blob/main/42_badges/fdfn.png)</a> 
-<a href="">![42 Badge](https://github.com/mcombeau/mcombeau/blob/main/42_badges/minitalkn.png)</a>
-<a href="">![42 Badge](https://github.com/mcombeau/mcombeau/blob/main/42_badges/minirtn.png)</a>
-<a href="">![42 Badge](https://github.com/mcombeau/mcombeau/blob/main/42_badges/ft_containersn.png)</a>
-<a href="">![42 Badge](https://github.com/mcombeau/mcombeau/blob/main/42_badges/ft_servicesn.png)</a>
-<a href="">![42 Badge](https://github.com/mcombeau/mcombeau/blob/main/42_badges/webservn.png)</a>
-
-<a href="">![42 Badge](https://github.com/mcombeau/mcombeau/blob/main/42_badges/ft_transcendencen.png)</a>
-<a href="">![42 Badge](https://github.com/mcombeau/mcombeau/blob/main/42_badges/common_coren.png)</a>
--->
 </div>
 
 ---
