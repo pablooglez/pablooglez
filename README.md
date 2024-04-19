@@ -50,7 +50,7 @@ I'm Pablo, a student at [42 Málaga](https://www.42malaga.com/).
 
 <div align="center">
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pablooglez&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage_icons=true&theme=holi)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pablooglez&show_icons=true&theme=radical)
 
 </div>
 
