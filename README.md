@@ -10,7 +10,7 @@ I'm Pablo, a student at [42 Málaga](https://www.42malaga.com/).
 
 ---
 
-<h2 >Known Technologies 👨🏻‍💻</h2>
+<h2 >  </h2>
 
 <p align="left">
   <a href="https://skillicons.dev">
