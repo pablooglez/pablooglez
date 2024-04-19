@@ -7,7 +7,9 @@ I'm Pablo, a student at [42 Málaga](https://www.42malaga.com/).
 <a href = "mailto:pablooglez97@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="@unsimpledev"  /></a>
   </p>
 <br>
+
 ---
+
 <h2 >Known Technologies 👨🏻‍💻</h2>
 
 <p align="left">
@@ -16,7 +18,9 @@ I'm Pablo, a student at [42 Málaga](https://www.42malaga.com/).
   </a>
 </p>
 <br>
+
 ---
+
 ### 42 School Projects
 <div align="center">
 
