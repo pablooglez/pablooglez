@@ -7,10 +7,10 @@ I'm Pablo, a student at [42 Málaga](https://www.42malaga.com/).
 <a href = "mailto:pablooglez97@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="@unsimpledev"  /></a>
   </p>
 <br>
-<h2>Sobre mi 😃</h2>
+<h2>S About me 😃</h2>
 
 <p align="left">
-🎓 INGENIERO EN INFORMÁTICA
+🎓 Sotfware Developer
 
 🎥 PEQUEÑO CREADOR DE CONTENIDO que transmite sus conocimientos 📚 a través de las redes en base a mucho estudio 😵 y experiencia
 
@@ -18,7 +18,7 @@ I'm Pablo, a student at [42 Málaga](https://www.42malaga.com/).
 
 📝 roles en el ámbito: desarrollador... líder... arquitecto... cofundador... emprendedor... programador freelance... y en un futuro quién sabe ☺️
 
-📫 Contacto: **unsimpledev@gmail.com**
+📫 Contacto: **pablooglez97@gmail.com**
 <!--Intro end-->
   </p>
 <br>
@@ -71,21 +71,7 @@ I'm Pablo, a student at [42 Málaga](https://www.42malaga.com/).
 
 
 
-<!--Intro start-->
 
-<p align="left">
-🎓 INGENIERO EN INFORMÁTICA
-
-🎥 PEQUEÑO CREADOR DE CONTENIDO que transmite sus conocimientos 📚 a través de las redes en base a mucho estudio 😵 y experiencia
-
-💻 unos cuántos años de experiencia en el proceso de desarrollo de software (solo voy a decir más de 15 para no deschavar mi edad 🙈)
-
-📝 roles en el ámbito: desarrollador... líder... arquitecto... cofundador... emprendedor... programador freelance... y en un futuro quién sabe ☺️
-
-📫 Contacto: **unsimpledev@gmail.com**
-<!--Intro end-->
-  </p>
-<br>
 
 <h2 >Tecnologías conocidas👨🏻‍💻</h2>
 <!--tech stack icons-->
