@@ -44,6 +44,7 @@ I'm Pablo, a student at [42 Málaga](https://www.42malaga.com/).
 -->
 </div>
 ---
+
 ### GitHub Stats
 
 <div align="center">
