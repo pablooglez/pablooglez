@@ -6,7 +6,7 @@
 
 ---
 
-### Tech Stats 📊
+## ▪️ Tech Stats 📊
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=c,cpp,css,html,js,git,github,vscode,bash,linux" />
@@ -16,7 +16,7 @@
 
 ---
 
-### 42 School Projects 
+## ▪️ 42 School Projects 
 
 <div align="center">
 
@@ -29,7 +29,7 @@
 
 ---
 
-### GitHub Stats :octocat:
+## ▪️ GitHub Stats :octocat:
 
 <div align="center">
 
@@ -39,7 +39,7 @@
 
 ---
 
-### GitHub Pins
+## ▪️ GitHub Pins
 
 <div align="center"
 
