@@ -37,7 +37,7 @@ I'm Pablo, a student at [42 Málaga](https://www.42malaga.com/).
 
 <div align="center">
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pablooglez&show_icons=true&theme=holi)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pablooglez&show_icons=true&theme=holi) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pablooglez&layout=compact)
 
 </div>
 
