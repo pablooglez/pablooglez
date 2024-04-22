@@ -10,7 +10,7 @@ I'm Pablo, a student at [42 Málaga](https://www.42malaga.com/).
 
 ---
 
-<h2 > Languages </h2>
+### Languages 
 
 <p align="left">
   <a href="https://skillicons.dev">
@@ -22,6 +22,7 @@ I'm Pablo, a student at [42 Málaga](https://www.42malaga.com/).
 ---
 
 ### 42 School Projects
+
 <div align="center">
 
 <a href="https://github.com/pablooglez/Libft">![42 Badge](https://github.com/mcombeau/mcombeau/blob/main/42_badges/libfte.png)</a>
@@ -43,6 +44,3 @@ I'm Pablo, a student at [42 Málaga](https://www.42malaga.com/).
 
 ---
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pablooglez&repo=github-readme-stats)](https://github.com/pablooglez/github-readme-stats)
-
-[![Gist Card](https://github-readme-stats.vercel.app/api/gist?id=bbfce31e0217a3689c8d961a356cb10d)](https://gist.github.com/Yizack/bbfce31e0217a3689c8d961a356cb10d/)
