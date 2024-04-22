@@ -48,7 +48,7 @@ I'm Pablo, a student at [42 Málaga](https://www.42malaga.com/).
 
 <div align="center"
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pablooglez&repo=Libft)](https://github.com/pablooglez/Libft)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pablooglez&repo=Libft&theme=holi)](https://github.com/pablooglez/Libft)
 
 
 
