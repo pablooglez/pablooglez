@@ -1,14 +1,8 @@
-### Hello World !
+<h1 align="center"> Hello World, I’m pablogon 🙋🏻‍♂️ </h1>
 
 I'm Pablo, a student at [42 Málaga](https://www.42malaga.com/).
 
 [![gemartin's 42 stats](https://badge.mediaplus.ma/binary/pablogon?1337Badge=off&UM6P=off)](https://github.com/oakoudad/badge42)
-
-<p align="left">
-<a href="https://linkedin.com/in/pablooglez" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="unsimpledev"/></a>
-<a href = "https://mail.google.com/mail/u/0/#inbox" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="@unsimpledev"  /></a>
-  </p>
-<br>
 
 ---
 
@@ -70,8 +64,8 @@ I'm Pablo, a student at [42 Málaga](https://www.42malaga.com/).
 
 Email: gemartin@student.42barcelona.com
 
-<a href='mailto:gemartin@student.42barcelona.com' target="_blank"><img alt='Gmail' src='https://img.shields.io/badge/Gmail-100000?style=flat&logo=Gmail&logoColor=white&labelColor=EA4335&color=EA4335'/></a>
+<a href='mailto:pablogon@student.42barcelona.com' target="_blank"><img alt='Gmail' src='https://img.shields.io/badge/Gmail-100000?style=flat&logo=Gmail&logoColor=white&labelColor=EA4335&color=EA4335'/></a>
 </a>
 
-<a href='https://www.linkedin.com/in/gemartin99/' target="_blank"><img alt='Linkedin' src='https://img.shields.io/badge/LinkedIn-100000?style=flat&logo=Linkedin&logoColor=white&labelColor=0A66C2&color=0A66C2'/></a>
+<a href='https://www.linkedin.com/in/pablooglez/' target="_blank"><img alt='Linkedin' src='https://img.shields.io/badge/LinkedIn-100000?style=flat&logo=Linkedin&logoColor=white&labelColor=0A66C2&color=0A66C2'/></a>
 </a>
