@@ -52,17 +52,9 @@ I'm Pablo, a student at [42 Málaga](https://www.42malaga.com/).
 
 ---
 
-<h1 align="center"> Hi, I’m gemartin99 🙋🏻‍♂️ </h1>
-
-## ▪️ I'm student at [42 Barcelona](https://www.42barcelona.com/es/) 👨🏻‍💻📚 
-
-[![gemartin's 42 stats](https://badge.mediaplus.ma/binary/gemartin?1337Badge=off&UM6P=off)](https://github.com/oakoudad/badge42)
-
----
-
 ## ▪️ Contact me 📥
 
-Email: gemartin@student.42barcelona.com
+Email: pablogon@student.42barcelona.com
 
 <a href='mailto:pablogon@student.42barcelona.com' target="_blank"><img alt='Gmail' src='https://img.shields.io/badge/Gmail-100000?style=flat&logo=Gmail&logoColor=white&labelColor=EA4335&color=EA4335'/></a>
 </a>
