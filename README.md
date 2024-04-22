@@ -44,3 +44,5 @@ I'm Pablo, a student at [42 Málaga](https://www.42malaga.com/).
 ---
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pablooglez&repo=github-readme-stats)](https://github.com/pablooglez/github-readme-stats)
+
+[![Gist Card](https://github-readme-stats.vercel.app/api/gist?id=bbfce31e0217a3689c8d961a356cb10d)](https://gist.github.com/Yizack/bbfce31e0217a3689c8d961a356cb10d/)
