@@ -1,6 +1,6 @@
 <h1 align="center"> Hello World, I’m pablogon 🙋🏻‍♂️ </h1>
 
-I'm Pablo, a student at [42 Málaga](https://www.42malaga.com/).
+## ▪️ I'm Pablo, a student at [42 Málaga](https://www.42malaga.com/).
 
 [![gemartin's 42 stats](https://badge.mediaplus.ma/binary/pablogon?1337Badge=off&UM6P=off)](https://github.com/oakoudad/badge42)
 
