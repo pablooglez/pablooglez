@@ -39,19 +39,6 @@
 
 ---
 
-## ▪️ GitHub Pins
-
-<div align="center"
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pablooglez&repo=Libft&theme=holi)](https://github.com/pablooglez/Libft) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pablooglez&repo=Ft_Printf&theme=holi)](https://github.com/pablooglez/Ft_Printf)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pablooglez&repo=Get_next_line&theme=holi)](https://github.com/pablooglez/Get_next_line) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pablooglez&repo=Push_Swap&theme=holi)](https://github.com/pablooglez/Push_Swap)
-
-
-</div>
-
----
-
 ## ▪️ Contact me 📥
 
 Email: pablogon@student.42malaga.com
