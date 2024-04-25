@@ -2,7 +2,7 @@
 
 ## ▪️ I'm Pablo, a student at [42 Málaga](https://www.42malaga.com/).
 
-[![gemartin's 42 stats](https://badge.mediaplus.ma/binary/pablogon?1337Badge=off&UM6P=off)](https://github.com/oakoudad/badge42)
+[![pablogon's 42 stats](https://badge.mediaplus.ma/binary/pablogon)](https://github.com/oakoudad/badge42)
 
 ---
 
