@@ -9,7 +9,7 @@
 ## ▪️ Tech Stats 📊
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,css,html,js,git,github,vscode,bash,linux" />
+    <img src="https://skillicons.dev/icons?i=c,html,css,js,github,vscode,bash,linux" />
   </a>
 </p>
 <br>
