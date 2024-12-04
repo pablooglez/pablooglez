@@ -1,5 +1,11 @@
 <h1 align="center"> Hi, I’m pablogon 👨🏽‍💻</h1>
 
+<p align="center">
+        <img src="https://img.shields.io/badge/Nat-🇪🇸-%23aaaaaa.svg?style=flat" alt="Native language"/>
+        <img src="https://img.shields.io/badge/B1-🇬🇧-%23aaaaaa.svg?style=flat" alt="Second language"/>
+        <img src="https://komarev.com/ghpvc/?username=pablooglez&style=flat&color=blue"></a>
+</p>
+
 ## ▪️ I'm Pablo, a student at [42 Málaga](https://www.42malaga.com/).
 
 [![pablogon's 42 stats](https://badge.mediaplus.ma/binary/pablogon)](https://github.com/oakoudad/badge42)
