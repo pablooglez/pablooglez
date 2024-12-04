@@ -76,6 +76,8 @@
         
 ---
 
+<div align="left">
+        
 ## ▪️ Contact me 📥
 
 <div align="left">
