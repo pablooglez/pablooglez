@@ -12,12 +12,13 @@
 
 ---
 
-## ▪️ Tech Stats 📊
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,css,html,git,github,vscode,bash,linux" />
-  </a>
-</p>
+## ▪️ Technical Skills 📊
+
+![My Skills](https://skillicons.dev/icons?i=powershell,c,bash,vim,vscode,git,html,css,github)
+> :desktop_computer: Bash | C | Powershell | HTML | CSS   
+> :hammer_and_wrench:  Git | GitHub  
+> :atom: Vim | Visual Studio Code
+> :desktop_computer: MacOS | Debian | Ubuntu | Windows | Virtualisation: VirtualBox
 <br>
 
 ---
