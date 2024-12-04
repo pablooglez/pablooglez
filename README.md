@@ -29,11 +29,12 @@
 <div align="center">
 
 <a href="https://github.com/pablooglez/Libft">![42 Badge](https://github.com/mcombeau/mcombeau/blob/main/42_badges/libfte.png)</a>
-<a href="https://github.com/pablooglez/Get_next_line">![42 Badge](https://github.com/mcombeau/mcombeau/blob/main/42_badges/get_next_linee.png)</a>
 <a href="https://github.com/pablooglez/Ft_Printf">![42 Badge](https://github.com/mcombeau/mcombeau/blob/main/42_badges/ft_printfe.png)</a>
+<a href="https://github.com/pablooglez/Get_next_line">![42 Badge](https://github.com/mcombeau/mcombeau/blob/main/42_badges/get_next_linee.png)</a>
 <a href="https://github.com/pablooglez/Born2beroot">![42 Badge](https://github.com/mcombeau/mcombeau/blob/main/42_badges/born2beroote.png)</a>
 <a href="https://github.com/pablooglez/Push_Swap">![42 Badge](https://github.com/mcombeau/mcombeau/blob/main/42_badges/push_swape.png)</a>
 <a href="https://github.com/pablooglez/Pipex">![42 Badge](https://github.com/mcombeau/mcombeau/blob/main/42_badges/pipexe.png)</a>
+<a href="https://github.com/pablooglez/So_Long">![42 Badge](https://github.com/mcombeau/mcombeau/blob/main/42_badges/so_longe.png)</a>
 <a href="https://github.com/pablooglez/Philosophers">![42 Badge](https://github.com/mcombeau/mcombeau/blob/main/42_badges/philosopherse.png)</a>
 <a href="https://github.com/pablooglez/Minishell">![42 Badge](https://github.com/mcombeau/mcombeau/blob/main/42_badges/minishelle.png)</a>
 
