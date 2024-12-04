@@ -53,8 +53,8 @@
 | [Philosophers](https://github.com/pablooglez/Philosophers) ✅ | Management of threads with C | 3 | 100/100 | no Bonus |
 | [Exam - Rank 3]() ✅ | printf or get_next_line | 1 - 2 | 100/100 | - | 
 | [Minishell](https://github.com/pablooglez/Minishell) ✅ | Develop the bash shell with a partner | 3 | 101/100 | no Bonus |
-| [Netpractice]() | Fix network connections between different Hosts, Routers, Switch, etc | 4 | Ongoing | - |
 | [Exam - Rank 4]() ✅ | Microshell | 4 | 100/100 | - |
+| [Netpractice]() | Fix network connections between different Hosts, Routers, Switch, etc | 4 | Ongoing | - |
 | [Cub3d]()  | Develop a 3D game | 4 | Ongoing | no Bonus |
 | [C++]()  | Develop some functions on C++ | 4 | Ongoing | - |
 
