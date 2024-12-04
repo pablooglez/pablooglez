@@ -58,12 +58,10 @@
 | [C++]()  | Develop some functions on C++ | 4 | Ongoing | - |
 
 ---
-<div>
-        
-</div>
+
 ## ▪️ GitHub Stats :octocat:
 
-<div align="center">
+<div align="left">
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pablooglez&show_icons=true&theme=holi&rank_icon=github) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pablooglez&layout=compact&theme=holi)
 
