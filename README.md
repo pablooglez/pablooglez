@@ -41,17 +41,17 @@
 
 |	Name                                               |	Description                                    | Level | Qualifications | Bonus |
 |:--------------------------------------------------|:----------------------------------------------|:-----:|:----------------:|:----------------:|
-|	[Libft](https://github.com/Sheifc/42cursus/tree/main/libft) ✅ |  Library development of 43 system functions in C      | 0 | 125/100 | Bonus ✅ |
-| [Printf](https://github.com/Sheifc/42cursus/tree/main/printf) ✅ | Printf function development with variatic variables in C | 1 | 100/100 | no Bonus |
-| [Get next line](https://github.com/Sheifc/42cursus/tree/main/GNL) ✅ | Memory management with arrays & static variables in C | 1 | 125/100 | Bonus ✅ |
-| [Born2beroot](https://github.com/Sheifc/42cursus/tree/main/Born2beroot) ✅ | Admin System and virtualisation and encryptation| 1 | 125/100 | Bonus ✅ |
-| [Exam - Rank 2](https://github.com/Sheifc/42cursus/tree/main/Rank2_Exam) ✅ | 57 Functions & Programs in C | 0 - 2 | 100/100 | - |
-| [Push Swap](https://github.com/Sheifc/42cursus/tree/main/push_swap) ✅ | Sort algorithm development with lists in C | 2 | 125/100 | Bonus ✅ |
-| [Pipex](https://github.com/Sheifc/42cursus/tree/main/pipex) ✅ | Redirections and pipes, processes - C | 2 | 125/100 | Bonus ✅ | 
-| [So long](https://github.com/Sheifc/42cursus/tree/main/so_long) ✅ | 2D game development - C | 2 | 100/100 | no Bonus | 
-| [Philosophers](https://github.com/Sheifc/42cursus/tree/main/philo) ✅ | Management of threads with C | 3 | 100/100 | no Bonus |
+|	[Libft](https://github.com/pablooglez/Libft) ✅ |  Library development of 43 system functions in C      | 0 | 125/100 | Bonus ✅ |
+| [Printf](https://github.com/pablooglez/ft_printf) ✅ | Printf function development with variatic variables in C | 1 | 100/100 | no Bonus |
+| [Get next line](https://github.com/pablooglez/Get_next_line) ✅ | Memory management with arrays & static variables in C | 1 | 125/100 | Bonus ✅ |
+| [Born2beroot](https://github.com/pablooglez/Born2beroot) ✅ | Admin System and virtualisation and encryptation| 1 | 125/100 | Bonus ✅ |
+| [Exam - Rank 2]() ✅ | 57 Functions & Programs in C | 0 - 2 | 100/100 | - |
+| [Push Swap](https://github.com/pablooglez/Push_Swap) ✅ | Sort algorithm development with lists in C | 2 | 125/100 | Bonus ✅ |
+| [Pipex](https://github.com/pablooglez/Pipex) ✅ | Redirections and pipes, processes - C | 2 | 100/100 | no Bonus | 
+| [So long](https://github.com/pablooglez/So_long) ✅ | 2D game development - C | 2 | 100/100 | no Bonus | 
+| [Philosophers](https://github.com/pablooglez/Philosophers) ✅ | Management of threads with C | 3 | 100/100 | no Bonus |
 | [Exam - Rank 3]() ✅ | printf or get_next_line | 1 - 2 | 100/100 | - | 
-| [Minishell]() ✅ | Develop the bash shell with a partner | 3 | 125/100 | Bonus ✅ |
+| [Minishell](https://github.com/pablooglez/Minishell) ✅ | Develop the bash shell with a partner | 3 | 101/100 | no Bonus |
 | [Netpractice]() ✅ | Fix network connections between different Hosts, Routers, Switch, etc | 4 | 100/100 | - |
 | [Exam - Rank 4]() ✅ | Microshell | 4 | 100/100 | - |
 | [Cub3d]()  | Develop a 3D game | 4 | Ongoing | no Bonus |
@@ -61,7 +61,7 @@
 
 ## ▪️ GitHub Stats :octocat:
 
-<div align="left">
+<div align="center">
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pablooglez&show_icons=true&theme=holi&rank_icon=github) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pablooglez&layout=compact&theme=holi)
 
