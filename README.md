@@ -78,6 +78,8 @@
 
 ## ▪️ Contact me 📥
 
+<div align="left">
+        
 Email: pablogon@student.42malaga.com
 
 <a href='mailto:pablogon@student.42malaga.com' target="_blank"><img alt='Gmail' src='https://img.shields.io/badge/Gmail-100000?style=flat&logo=Gmail&logoColor=white&labelColor=EA4335&color=EA4335'/></a>
@@ -85,3 +87,5 @@ Email: pablogon@student.42malaga.com
 
 <a href='https://www.linkedin.com/in/pablooglez/' target="_blank"><img alt='Linkedin' src='https://img.shields.io/badge/LinkedIn-100000?style=flat&logo=Linkedin&logoColor=white&labelColor=0A66C2&color=0A66C2'/></a>
 </a>
+
+<div>
