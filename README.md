@@ -20,7 +20,6 @@
 > :hammer_and_wrench:  Git | GitHub  
 > :atom: Vim | Visual Studio Code
 > :desktop_computer: MacOS | Debian | Ubuntu | Windows | Virtualisation: VirtualBox
-<br>
 
 ---
 
