@@ -15,6 +15,7 @@
 ## ▪️ Technical Skills 📊
 
 ![My Skills](https://skillicons.dev/icons?i=powershell,c,bash,vim,vscode,git,html,css,github)
+
 > :desktop_computer: Bash | C | Powershell | HTML | CSS   
 > :hammer_and_wrench:  Git | GitHub  
 > :atom: Vim | Visual Studio Code
