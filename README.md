@@ -74,7 +74,7 @@
 ---
 <div align="center">
         
-![Screenshot from 2024-12-04 13-57-08](https://github.com/pablooglez/pablooglez/releases/tag/Screenshot)
+![Screenshot from 2024-12-04 13-57-08](https://github.com/user-attachments/assets/75dbc94a-c641-4244-b073-978e5b779c50)
 
 <div>
         
