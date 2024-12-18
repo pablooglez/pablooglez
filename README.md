@@ -37,6 +37,7 @@
 <a href="https://github.com/pablooglez/So_Long">![42 Badge](https://github.com/mcombeau/mcombeau/blob/main/42_badges/so_longe.png)</a>
 <a href="https://github.com/pablooglez/Philosophers">![42 Badge](https://github.com/mcombeau/mcombeau/blob/main/42_badges/philosopherse.png)</a>
 <a href="https://github.com/pablooglez/Minishell">![42 Badge](https://github.com/mcombeau/mcombeau/blob/main/42_badges/minishelle.png)</a>
+<a href="https://github.com/pablooglez/NetPractice">![42 Badge](https://github.com/mcombeau/mcombeau/blob/main/42_badges/netpracticee.png)</a>
 
 ---
 
@@ -54,7 +55,7 @@
 | [Exam - Rank 3]() ✅ | printf or get_next_line | 1 - 2 | 100/100 | - | 
 | [Minishell](https://github.com/pablooglez/Minishell) ✅ | Develop the bash shell with a partner | 3 | 101/100 | no Bonus |
 | [Exam - Rank 4]() ✅ | Microshell | 4 | 100/100 | - |
-| [Netpractice]() | Fix network connections between different Hosts, Routers, Switch, etc | 4 | Ongoing | - |
+| [Netpractice]() | Fix network connections between different Hosts, Routers, Switch, etc | 4 | 100/100 | no Bonus |
 | [Cub3d]()  | Develop a 3D game | 4 | Ongoing | no Bonus |
 | [C++]()  | Develop some functions on C++ | 4 | Ongoing | - |
 
