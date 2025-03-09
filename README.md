@@ -74,7 +74,7 @@
 ---
 <div align="center">
         
-![Screenshot from 2024-12-04 13-57-08](https://github.com/user-attachments/assets/75dbc94a-c641-4244-b073-978e5b779c50)
+![Screenshot from 2025-03-09 17-13-41](https://github.com/user-attachments/assets/ef8af514-c9cd-4e02-9776-0d370f1401a5)
 
 <div>
         
