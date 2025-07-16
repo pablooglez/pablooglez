@@ -59,6 +59,7 @@
 | [Cub3d](https://github.com/pablooglez/cub3D) ✅ | Develop a 3D game | 4 | 105/100 | Bonus ✅ |
 | [C++](https://github.com/pablooglez/Cpp_Modules) ✅ | Develop some functions on C++ | 4 - 5 | 125/125 | Bonus ✅ |
 | [Exam - Rank 5]() ✅ | C++ | 5 | 100/100 | - |
+| [Ft_IRC](https://github.com/pablooglez/ft_irc) ✅ | IRC server implementation in C++ using sockets, handling multiple clients and basic IRC commands | 5 | 125/125 | Bonus ✅ |
 
 ---
 
