@@ -55,7 +55,7 @@
 | [Exam - Rank 3]() ✅ | printf or get_next_line | 1 - 2 | 100/100 | - | 
 | [Minishell](https://github.com/pablooglez/Minishell) ✅ | Develop the bash shell with a partner | 3 | 101/100 | no Bonus |
 | [Exam - Rank 4]() ✅ | Microshell | 4 | 100/100 | - |
-| [Netpractice]() ✅ | Fix network connections between different Hosts, Routers, Switch, etc | 4 | 100/100 | no Bonus |
+| [Netpractice](https://github.com/pablooglez/NetPractice) ✅ | Fix network connections between different Hosts, Routers, Switch, etc | 4 | 100/100 | no Bonus |
 | [Cub3d](https://github.com/pablooglez/cub3D) ✅ | Develop a 3D game | 4 | 105/100 | Bonus ✅ |
 | [C++](https://github.com/pablooglez/Cpp_Modules) ✅ | Develop some functions on C++ | 4 - 5 | 125/125 | Bonus ✅ |
 | [Exam - Rank 5]() ✅ | C++ | 5 | 100/100 | - |
