@@ -2,7 +2,7 @@
 
 <p align="center">
         <img src="https://img.shields.io/badge/Nat-🇪🇸-%23aaaaaa.svg?style=flat" alt="Native language"/>
-        <img src="https://img.shields.io/badge/B1-🇬🇧-%23aaaaaa.svg?style=flat" alt="Second language"/>
+        <img src="https://img.shields.io/badge/B2-🇬🇧-%23aaaaaa.svg?style=flat" alt="Second language"/>
         <img src="https://komarev.com/ghpvc/?username=pablooglez&style=flat&color=blue"></a>
 </p>
 
