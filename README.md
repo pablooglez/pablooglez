@@ -8,7 +8,7 @@
 
 ## ▪️ I'm Pablo, a student at [42 Málaga](https://www.42malaga.com/).
 
-[![pablogon's 42 stats](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGdtbWRnYTliNWs4NXplYnMyM3JwOXl6ZWl4M2RueHdhczluNnNxZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fZdzEHC8sMC0E/giphy.gif)](https://github.com/pablogon/badge42)
+[![pablogon's 42 stats](https://badge.mediaplus.ma/franky/pablogon)](https://github.com/pablogon/badge42)
 
 ---
 
