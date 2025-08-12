@@ -92,7 +92,7 @@
 
 <div align="left">
         
-Email: pablogon@student.42malaga.com
+Email: pablooglez97@gmail.com
 
 <a href='mailto:pablogon@student.42malaga.com' target="_blank"><img alt='Gmail' src='https://img.shields.io/badge/Gmail-100000?style=flat&logo=Gmail&logoColor=white&labelColor=EA4335&color=EA4335'/></a>
 </a>
