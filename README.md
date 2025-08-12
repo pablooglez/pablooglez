@@ -8,7 +8,7 @@
 
 ## ▪️ I'm Pablo, a student at [42 Málaga](https://www.42malaga.com/).
 
-[![pablogon's 42 stats](https://badge.mediaplus.ma/darkblue/pablogon)](https://github.com/oakoudad/badge42)
+[![pablogon's 42 stats](https://badge.mediaplus.ma/franky/pablogon)](https://github.com/oakoudad/badge42)
 
 ---
 
