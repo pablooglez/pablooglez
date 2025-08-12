@@ -64,7 +64,6 @@
 | [Exam - Rank 5]() ✅ | C++ | 5 | 100/100 | - |
 | [Ft_irc](https://github.com/pablooglez/ft_irc) ✅ | IRC server implementation in C++ | 5 | 125/125 | Bonus ✅ |
 | [Inception](https://github.com/pablooglez/Inception) ✅ | Multi-service Docker setup for secure web hosting | 5 | 120/125 | no Bonus |
-
 ---
 
 <div align="left">
