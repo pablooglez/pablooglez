@@ -20,7 +20,7 @@
 > :desktop_computer: Bash | C | Powershell | HTML | CSS   
 > :hammer_and_wrench:  Git | GitHub  
 > :atom: Vim | Visual Studio Code
-> :desktop_computer: MacOS | Debian | Ubuntu | Windows | Virtualisation: VirtualBox
+> :desktop_computer: MacOS | Debian | Ubuntu | Windows | VirtualBox
 
 ---
 
@@ -38,7 +38,10 @@
 <a href="https://github.com/pablooglez/Philosophers">![42 Badge](https://github.com/mcombeau/mcombeau/blob/main/42_badges/philosopherse.png)</a>
 <a href="https://github.com/pablooglez/Minishell">![42 Badge](https://github.com/mcombeau/mcombeau/blob/main/42_badges/minishelle.png)</a>
 <a href="https://github.com/pablooglez/NetPractice">![42 Badge](https://github.com/mcombeau/mcombeau/blob/main/42_badges/netpracticee.png)</a>
+<a href="https://github.com/pablooglez/cub3D">![42 Badge](https://github.com/mcombeau/mcombeau/blob/main/42_badges/cub3de.png))</a>
 <a href="https://github.com/pablooglez/Cpp_Modules">![42 Badge](https://github.com/mcombeau/mcombeau/blob/main/42_badges/cppe.png)</a>
+<a href="https://github.com/pablooglez/ft_irc">![42 Badge](https://github.com/mcombeau/mcombeau/blob/main/42_badges/ft_ircm.png)</a>
+<a href="https://github.com/pablooglez/Inception">![42 Badge](https://github.com/mcombeau/mcombeau/blob/main/42_badges/inceptione.png)</a>
 ---
 
 |	Name                                               |	Description                                    | Level | Qualifications | Bonus |
@@ -60,6 +63,7 @@
 | [C++](https://github.com/pablooglez/Cpp_Modules) ✅ | Develop some functions on C++ | 4 - 5 | 125/125 | Bonus ✅ |
 | [Exam - Rank 5]() ✅ | C++ | 5 | 100/100 | - |
 | [Ft_irc](https://github.com/pablooglez/ft_irc) ✅ | IRC server implementation in C++ | 5 | 125/125 | Bonus ✅ |
+| [Inception](https://github.com/pablooglez/Inception) ✅ | Multi-service Docker setup for secure web hosting | 5 | 120/125 | no Bonus |
 
 ---
 
