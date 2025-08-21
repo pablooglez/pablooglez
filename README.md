@@ -83,7 +83,7 @@
 ---
 <div align="center">
         
-![Screenshot from 2025-03-09 17-13-41](https://github.com/user-attachments/assets/4bfab89a-94af-4ee3-b5e8-3fc5701b2d34)
+![Screenshot from 2025-03-09 17-13-41](https://github.com/user-attachments/assets/aa16faea-2387-4900-b3af-035b77801134)
 
 <div>
         
