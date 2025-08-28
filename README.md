@@ -16,17 +16,6 @@
 
 ![My Skills](https://skillicons.dev/icons?i=bash,vim,c,cpp,docker,vscode,git,github,html,css)
 
-
-> :desktop_computer: Bash | C | Powershell | HTML | CSS
-> 
-> :hammer_and_wrench:  Git | GitHub  
->
-> :atom: Vim | Visual Studio Code 
->
-> :desktop_computer: MacOS | Debian | Ubuntu | Windows | VirtualBox
-
----
-
 ## ▪️ 42 School Projects 
 
 <div align="center">
