@@ -57,7 +57,7 @@
 | [Ft_irc](https://github.com/pablooglez/ft_irc) ✅ | IRC server implementation in C++ | 5 | 125/125 | Bonus ✅ |
 | [Inception](https://github.com/pablooglez/Inception) ✅ | Multi-service Docker setup for secure web hosting | 5 | 120/125 | no Bonus |
 | [Exam - Rank 6]() ✅ | Mini_Serv | 6 | 100/100 | - |
-| [Ft_Transcendence](https://github.com/SalvadorChamizo/ft_transcendence) ✅ | Real-time multiplayer Pong web application  | 6 | 125/100 | Bonus ✅ |
+| [Ft_transcendence](https://github.com/SalvadorChamizo/ft_transcendence) ✅ | Real-time multiplayer Pong web application  | 6 | 125/100 | Bonus ✅ |
 ---
 
 <div align="left">
