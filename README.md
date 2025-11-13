@@ -14,7 +14,7 @@
 
 ## ▪️ Technical Skills 📊
 
-![My Skills](https://skillicons.dev/icons?i=bash,vim,c,cpp,docker,vscode,git,github,html,css)
+![My Skills](https://skillicons.dev/icons?i=bash,vim,c,cpp,docker,vscode,git,github,html,css,js,ts,sqlite,nginx)
 
 ## ▪️ 42 School Projects 
 
